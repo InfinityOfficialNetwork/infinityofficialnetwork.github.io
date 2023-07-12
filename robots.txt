@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://infinityofficialnetwork.github.io/infinityofficialnetwork/sitemap.xml
