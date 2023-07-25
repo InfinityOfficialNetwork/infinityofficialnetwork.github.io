@@ -1954,32 +1954,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>testpost.1</title>
-        <author>
-            <name>Administrator</name>
-        </author>
-        <link href="https://www.infinityofficial.net/testpost1.html"/>
-        <id>https://www.infinityofficial.net/testpost1.html</id>
-
-        <updated>2023-07-11T22:30:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                    This is a heading Test image
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="this-is-a-heading">
-      This is a heading
-    </h2>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.infinityofficial.net/media/posts/1/accf354f6bc40a246191c9036a76c3f5.jpg" height="1600" width="2560" alt=""  sizes="100vw" srcset="https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-xs.jpg 300w ,https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-sm.jpg 480w ,https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-md.jpg 768w ,https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-lg.jpg 1024w ,https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-xl.jpg 1360w ,https://www.infinityofficial.net/media/posts/1/responsive/accf354f6bc40a246191c9036a76c3f5-2xl.jpg 1600w">
-      <figcaption>Test image</figcaption>
-    </figure>
-            ]]>
-        </content>
-    </entry>
 </feed>
