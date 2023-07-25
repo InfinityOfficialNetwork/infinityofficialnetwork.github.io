@@ -116,4 +116,16 @@
     <loc>/tags/index/</loc>
   </url>
   
+  <url>
+    <loc>/page/index/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/test_page/</loc>
+  </url>
+  
 </urlset>
